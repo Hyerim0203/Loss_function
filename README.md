@@ -1,2 +1,2 @@
-# Loss_function
-수학적 방법으로 딥러닝과 머신러닝에서 사용되는 loss function 도출
+# statistics-and-data-science
+데이터 사이언스를 위한 통계학 개념 정리 및 실습
